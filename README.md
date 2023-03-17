@@ -7,9 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Node.js
 - 🌱 I’m currently learning Backend Developmet
-- 🤔 I’m looking for help with 
-- 💬 Ask me about 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: https://www.linkedin.com/in/mohd-saif-134076141/
+
 -->
