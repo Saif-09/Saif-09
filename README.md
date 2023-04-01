@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**Saif-09/Saif-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Saif-09** is a ✨ _special_ ✨ repository 
 
 - 🔭 I’m currently working on Node.js
 - 🌱 I’m currently learning Backend Developmet
