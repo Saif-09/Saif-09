@@ -1,1 +1,1 @@
-<a href="https://app.daily.dev/saifsiddiqui"><img src="https://api.daily.dev/devcards/175b333740fe4e029ac4b3aae127e2db.png?r=j0g" width="400" alt="Saif Siddiqui's Dev Card"/></a>
+<a href="https://app.daily.dev/saifsiddiqui"><img src="https://api.daily.dev/devcards/v2/OVUr0QMN6TqZ4pLQZ49Zt.png?type=default&r=vxw" width="356" alt="Saif Siddiqui's Dev Card"/></a>
